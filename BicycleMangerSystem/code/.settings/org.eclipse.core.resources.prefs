@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//WebContent/admin/home.jsp=UTF-8
+encoding//WebContent/admin/index.jsp=UTF-8
+encoding//WebContent/admin/main.jsp=UTF-8
+encoding//WebContent/admin/role_management.jsp=UTF-8
+encoding//WebContent/admin/role_management_add.jsp=UTF-8
+encoding//WebContent/admin/role_management_edit.jsp=UTF-8
+encoding//WebContent/admin/role_management_look.jsp=UTF-8
+encoding//WebContent/admin/role_management_premission.jsp=UTF-8
+encoding//WebContent/admin/shujutongji.jsp=UTF-8
+encoding//WebContent/admin/sjtj_person_look.jsp=UTF-8
+encoding//WebContent/admin/user_manage.jsp=UTF-8
+encoding//WebContent/admin/user_manage_add.jsp=UTF-8
+encoding//WebContent/admin/user_manage_edit.jsp=UTF-8
+encoding//WebContent/admin/user_manage_password.jsp=UTF-8
+encoding/<project>=UTF-8
